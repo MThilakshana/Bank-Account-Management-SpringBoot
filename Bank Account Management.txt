@@ -1,0 +1,7 @@
+Functions - 
+	1. Create bank account
+	2. Get the bank account details by account number
+	3. Get all the bank account details
+	4. Withdraw the money from account
+	5. Deposit the money in account
+	6. Delete or close the acount
